@@ -123,7 +123,7 @@ NEXT_PUBLIC_COINGECKO_WEBSOCKET_URL=
 NEXT_PUBLIC_COINGECKO_API_KEY=
 ```
 
-Replace the placeholder values with your real credentials. You can get these by signing up at: [**Example**](https://jsm.dev/example).
+Replace the placeholder values with your real credentials. You can get these by signing up at: [**CoinGecko API**](https://jsm.dev/crypto-gecko).
 
 **Running the Project**
 
